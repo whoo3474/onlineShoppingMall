@@ -1,0 +1,25 @@
+{
+  "name": "onlineshoppingmall",
+  "version": "1.0.0",
+  "description": "Next.js , PWA, GraphCMS",
+  "scripts": {
+    "dev" : "next",
+    "build" : "next build",
+    "start" : "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoo3474/onlineShoppingMall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoo3474/onlineShoppingMall/issues"
+  },
+  "homepage": "https://github.com/whoo3474/onlineShoppingMall#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
